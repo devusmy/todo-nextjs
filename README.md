@@ -23,8 +23,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd todo-app
+   git clone https://github.com/devusmy/todo-nextjs.git
    ```
 
 2. **Install dependencies**
